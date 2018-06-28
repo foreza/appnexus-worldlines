@@ -1,0 +1,6 @@
+framework module Pods_worldlines {
+  umbrella header "Pods-worldlines-umbrella.h"
+
+  export *
+  module * { export * }
+}

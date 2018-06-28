@@ -1,0 +1,6 @@
+framework module AppNexusSDK {
+  umbrella header "AppNexusSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
